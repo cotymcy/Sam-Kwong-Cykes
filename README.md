@@ -1,9 +1,11 @@
-Reference:
+<b>Personal note regarding data mining</b>
+
+<b>Reference to be studied:</b>
 
 数据科学相关文章合集（玉树芝兰）
 https://www.jianshu.com/p/30b4fa6793f6
 
-To be read:
+<b>To be read:</b>
 
 Articut 中文斷詞暨詞性標記服務
 https://github.com/Droidtown/ArticutAPI
