@@ -6,7 +6,7 @@
 - Use external data-source if not accurate enough
 
 Step: PPT Preparation
-- Visualization of Facebook dataVisualization
+- Visualization of Facebook data
 
 <br>
 <br>
