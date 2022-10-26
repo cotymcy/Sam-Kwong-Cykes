@@ -1,3 +1,17 @@
+<b>Update by 26 October</b>
+<br>Step: Sentiment Analysis
+- [DONE] Manually label sentiment for Facebook comments
+- [In Progress] Train sentiment analyzer
+- [In Progress] Evaluate pre- and post-trained analyzer model
+- Use external data-source if not accurate enough
+
+Step: PPT Preparation
+- Visualization of Facebook dataVisualization
+
+<br>
+<br>
+<br>
+
 <b>Personal note regarding data mining</b>
 
 <b>Reference to be studied:</b>
