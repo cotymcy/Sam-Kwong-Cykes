@@ -1,7 +1,11 @@
 <b>Update by 26 October</b>
 <br>Step: Sentiment Analysis
 - [DONE] Manually label sentiment for Facebook comments
-- [In Progress] Train sentiment analyzer
+- [In Progress] Train sentiment analyzer: 
+  <ul>
+  <li> [FAIL] VADER: only works for English </li>
+  <li> [SUCCESS] SnowNLP: has more than 50% accuracy </li>
+  </ul>
 - [In Progress] Evaluate pre- and post-trained analyzer model
 - Use external data-source if not accurate enough
 
